@@ -20,8 +20,5 @@ In 2024, the caretakers of Dr. Simpson's records, Gayle Penland Mrock (the great
 Elmer Cox Genealogical and Historical Library to scan and digitize Dr. Simpson's numerous booklets documenting the births he attended. Volunteers and staff members spent months compiling an inventory list that included the name and birthdate of the child, the parents' names, and the civil district where they lived.
 Not every page of Dr. Simpson's records was completed, and many pages were too damaged and deteriorated to read. Using Ancestry.com and other genealogical resources, volunteers and staff were able to add in more information that wasn't contained in Dr. Simpson's original records.
 Please note that any errors or typos in this index are unintentional. If a mistake is spotted, we will work to correct it.
-On the next page, there is a blank example page from Dr. Simpson's record books to show the information he would have been documenting to report to the state for the birth record.
+Listed below, there is a blank example page from Dr. Simpson's record books to show the information he would have been documenting to report to the state for the birth record.
 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
