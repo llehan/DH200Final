@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="home.jpeg" %}
+{% include feature/jumbotron.html objectid="[home.jpeg](https://raw.githubusercontent.com/llehan/birthrecordimages/refs/heads/main/home.jpeg)" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
